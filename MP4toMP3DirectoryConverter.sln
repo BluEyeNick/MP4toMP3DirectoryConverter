@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MP4toMP3DirectoryConverter", "MP4toMP3DirectoryConverter\MP4toMP3DirectoryConverter.pyproj", "{6FC1728E-66DE-485B-9990-FE78B352F0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC1728E-66DE-485B-9990-FE78B352F0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC1728E-66DE-485B-9990-FE78B352F0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67C5FB4F-407C-4674-810E-CA7774BD6392}
+	EndGlobalSection
+EndGlobal
