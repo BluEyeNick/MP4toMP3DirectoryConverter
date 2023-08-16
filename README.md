@@ -36,5 +36,3 @@ Then run the script using a Python interpreter. It will convert each video file 
 
 This script is provided as-is and without any warranties. Use it at your own risk. Make sure to comply with copyright laws and terms of use when converting and using media files.
 ```
-
-Feel free to customize this README to provide more information about your project and its usage.
